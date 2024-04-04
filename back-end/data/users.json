@@ -1,0 +1,14 @@
+[
+    {
+        "username" : "admin1",
+        "email" : "admin1@mail.com",
+        "password" : "admin1",
+        "imgUrl" : "https://asset.kompas.com/crops/irO4XUVJaJ0QmdvD4zkNo-YSx18=/192x128:1728x1152/750x500/data/photo/2021/12/04/61ab9370d9dc7.jpg"
+    },
+    {
+        "username" : "admin2",
+        "email" : "admin2@mail.com",
+        "password" : "admin2",
+        "imgUrl" : "https://cdn.shopify.com/s/files/1/0284/2391/3547/files/shutterstock_130389866-1200x800_600x600.jpg?v=1604870587"
+    }
+]

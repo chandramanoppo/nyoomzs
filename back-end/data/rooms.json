@@ -1,0 +1,30 @@
+[
+    {
+        "CreatorId" : 1,
+        "name": "test1",
+        "roomId" : "test1",
+        "password" : "test1",
+        "allowPublic" : true
+    },
+    {
+        "CreatorId" : 1,
+        "name": "test2",
+        "roomId" : "test2",
+        "password" : "test2",
+        "allowPublic" : false
+    },
+    {
+        "CreatorId" : 2,
+        "name": "test3",
+        "roomId" : "test3",
+        "password" : "test3",
+        "allowPublic" : true
+    },
+    {
+        "CreatorId" : 2,
+        "name": "test4",
+        "roomId" : "test4",
+        "password" : "test4",
+        "allowPublic" : false
+    }
+]
